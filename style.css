@@ -1,0 +1,26 @@
+body{
+    background-image: url("img/bg.jpg");
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+    color: aliceblue;
+    
+}
+
+.container{
+
+    max-width: 400px;
+
+}
+
+.yafet{
+    font-size: 0.5em;
+    letter-spacing: 0;
+}
+
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
